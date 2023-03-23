@@ -2,7 +2,7 @@
 
 ## Page info
 
-We are looking for a technical writer. This project is part of the Google Season of Docs initiative (https://developers.google.com/season-of-docs).
+We are looking for a technical writer. This project is part of the Google [Season of Docs](https://developers.google.com/season-of-docs) initiative.
 
 If you are interested in becoming the technical writer or have any questions regarding the project, please do not hesitate to contact us:
 
