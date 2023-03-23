@@ -1,5 +1,15 @@
 # Update and restructure Robot Framework User Guide
 
+## Page info
+
+We are looking for a technical writer. This project is part of the Google Season of Docs initiative (https://developers.google.com/season-of-docs).
+
+If you are interested in becoming the technical writer or have any questions regarding the project, please do not hesitate to contact us:
+
+Miikka Solmela
+Executive Director, Robot Framework Foundation
+executive.director@robotframework.org
+
 ## About your organization
 
 Robot Framework is a generic open source automation framework. It can be used for test automation and robotic process automation (RPA). Robot Framework is open and extensible – it can be integrated with virtually any other tool to create powerful and flexible automation solutions.  
